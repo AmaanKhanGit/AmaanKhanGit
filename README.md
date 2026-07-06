@@ -1,4 +1,4 @@
-# Hi, I'm Amaan 👋
+# Hi, I'm Amaan 
 
 Frontend Developer passionate about building responsive and production-ready web applications.
 
