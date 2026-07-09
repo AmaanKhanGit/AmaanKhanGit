@@ -25,6 +25,7 @@ Frontend Developer passionate about building responsive and production-ready web
 
 ## Connect
 
-- LinkedIn
-- Portfolio
-- Email
+- LinkedIn https://www.linkedin.com/in/amaan-khan-774657383/
+- GitHub https://github.com/AmaanKhanGit/
+- Email amaankhan050606@gmail.com
+- Portfolio [soon]
