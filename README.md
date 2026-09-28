@@ -4,6 +4,8 @@ Frontend Developer passionate about building responsive and production-ready web
 
 ## Tech Stack
 
+# Frontend
+
 - JavaScript
 - React
 - Tailwind CSS
@@ -11,7 +13,7 @@ Frontend Developer passionate about building responsive and production-ready web
 - TanStack Query
 - Firebase
 
-## Currently Learning
+# Backend
 
 - Node.js
 - Express.js
