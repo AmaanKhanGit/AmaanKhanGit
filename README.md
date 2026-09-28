@@ -2,9 +2,9 @@
 
 Frontend Developer passionate about building responsive and production-ready web applications.
 
-## Tech Stack
+# Tech Stack
 
-# Frontend
+## Frontend
 
 - JavaScript
 - React
@@ -13,7 +13,7 @@ Frontend Developer passionate about building responsive and production-ready web
 - TanStack Query
 - Firebase
 
-# Backend
+## Backend
 
 - Node.js
 - Express.js
