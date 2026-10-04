@@ -30,7 +30,6 @@ Full Stack Developer focused on building responsive, scalable, and production-re
 
 * Task Management Dashboard
 * E-Commerce Website
-* AI-Powered Criminal Network Analysis System
 
 ## Connect
 
