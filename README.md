@@ -4,11 +4,13 @@ Full Stack Developer focused on building responsive, scalable, and production-re
 
 ## Tech Stack
 
+### Language 
+* JavaScript
+* TypeScript
+
 ### Frontend
 
 * React
-* TypeScript
-* JavaScript
 * Tailwind CSS
 * Redux Toolkit
 * TanStack Query
@@ -25,11 +27,13 @@ Full Stack Developer focused on building responsive, scalable, and production-re
 
 * Git & GitHub
 * Firebase
+* Clerk 
 
 ## Featured Projects
 
 * Task Management Dashboard
 * E-Commerce Website
+* Expense Tracker App 
 
 ## Connect
 
